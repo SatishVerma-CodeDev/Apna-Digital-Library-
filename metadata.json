@@ -1,0 +1,7 @@
+{
+  "name": "Apna Library - Digital Library Management & Community",
+  "description": "Premium multi-branch study library system featuring live seat mapping, student KYC, dynamic UPI QR payments, digital attendance, community forum, and gamified study rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
